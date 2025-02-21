@@ -82,11 +82,6 @@ xray-app/
 - **OpenCV (cv2)**  
 - **NumPy 1.23.5**  
 
-📦 **To install all dependencies:**  
-```sh
-pip install -r requirements.txt
-```
-
 ---
 
 ## 🤝 Contributing  
