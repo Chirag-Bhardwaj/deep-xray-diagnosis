@@ -1,24 +1,24 @@
 # 🩺 Pneumonia Detection Flask App  
 
-This is a **Flask-based web application** that uses a **deep learning model (TensorFlow/Keras)** to predict whether an uploaded chest X-ray image shows signs of **pneumonia**.  
+This is a **Flask-based web application** that uses a **custom deep learning model** trained on top of VGG-16 to predict whether an uploaded chest X-ray image shows signs of **pneumonia**.  
 
 ✅ **Upload an X-ray image** → The model **analyzes it** → Displays the result with a **color-coded alert (Red for Pneumonia, Green for Normal).**  
 
 ---
 
 ## 📌 Features
-- 🌐 **Web-based UI** – Simple, fast, and user-friendly  
-- 🧠 **Deep Learning Model** – Uses a pre-trained **CNN model** for pneumonia detection  
+- 🌐 **Web-based UI**
+- 🧠 Uses a pre-trained **CNN model** for pneumonia detection  
 - 📸 **Image Processing** – Automatically resizes & normalizes images before prediction  
 - 🎨 **Color-coded Results** – Pneumonia (Red) 🔴 | Normal (Green) 🟢  
-- ⚡ **Fast & Lightweight** – Works on any system with Python  
+- ⚡ **Fast & Lightweight**  
 
 ---
 
 ## 🚀 Installation & Setup  
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/xray-app.git
+git clone https://github.com/chirag-bhardwaj/xray-app.git
 cd xray-app
 ```
 
@@ -62,7 +62,7 @@ xray-app/
 ## 📊 Example Predictions  
 | Input X-ray | Model Prediction |
 |-------------|-----------------|
-| ![Normal X-ray](https://via.placeholder.com/150) | ✅ No Signs of Pneumonia (Green) |
+| ![Normal X-ray](https://github.com/user-attachments/assets/e44aca71-c666-47d0-93b9-36fdfee3bd49) | ✅ No Signs of Pneumonia (Green) |
 | ![Pneumonia X-ray](https://via.placeholder.com/150) | 🚨 Pneumonia Detected (Red) |
 
 ---
