@@ -2,8 +2,6 @@
 
 This is a **Flask-based web application** that uses a **custom deep learning model** trained on top of VGG-16 to predict whether an uploaded chest X-ray image shows signs of **pneumonia**.  
 
-✅ **Upload an X-ray image** → The model **analyzes it** → Displays the result with a **color-coded alert (Red for Pneumonia, Green for Normal).**  
-
 ---
 
 ## 📌 Features
@@ -11,7 +9,7 @@ This is a **Flask-based web application** that uses a **custom deep learning mod
 - 🧠 Uses a pre-trained **CNN model** for pneumonia detection  
 - 📸 **Image Processing** – Automatically resizes & normalizes images before prediction  
 - 🎨 **Color-coded Results** – Pneumonia (Red) 🔴 | Normal (Green) 🟢  
-- ⚡ **Fast & Lightweight**  
+- ⚡ **Accuracy: 92.6%**
 
 ---
 
