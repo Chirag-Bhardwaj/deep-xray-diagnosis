@@ -67,7 +67,7 @@ xray-app/
       <br> ✅ No Pneumonia (Green) 
     </td> 
     <td align="center"> 
-      <img src="https://github.com/user-attachments/assets/2251184a-5057-47ea-9089-e3a9d578c021" width="100"> 
+      <img src="https://github.com/user-attachments/assets/19355d73-137c-4030-8638-7d005ede697a" width="100"> 
       <br> 🚨 Pneumonia Detected (Red) 
     </td> 
   </tr> 
