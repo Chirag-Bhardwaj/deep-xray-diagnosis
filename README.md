@@ -103,9 +103,4 @@ pip install -r requirements.txt
 
 ---
 
-## ⚖️ License  
-MIT License – Free to use, modify, and distribute.  
-
----
-
 ### **📢 If you found this useful, give it a ⭐ on GitHub!**  
