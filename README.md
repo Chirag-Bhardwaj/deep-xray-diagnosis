@@ -63,7 +63,7 @@ xray-app/
 | Input X-ray | Model Prediction |
 |-------------|-----------------|
 | ![Normal X-ray](https://github.com/user-attachments/assets/e44aca71-c666-47d0-93b9-36fdfee3bd49) | ✅ No Signs of Pneumonia (Green) |
-| ![Pneumonia X-ray](https://via.placeholder.com/150) | 🚨 Pneumonia Detected (Red) |
+| ![Pneumonia X-ray](https://github.com/user-attachments/assets/2251184a-5057-47ea-9089-e3a9d578c021) | 🚨 Pneumonia Detected (Red) |
 
 ---
 
