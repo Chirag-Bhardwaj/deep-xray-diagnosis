@@ -47,9 +47,8 @@ python app.py
 xray-app/
 │── pneumonia_model.h5    # Trained deep learning model
 │── app.py                # Main Flask application
-│── requirements.txt      # Python dependencies
-│── README.md             # Documentation
-│── .gitignore            # Ignore unnecessary files
+│── requirements.txt      
+│── README.md            
 │── templates/
 │   ├── index.html        # Upload page
 │   ├── results.html      # Results page (with red/green alerts)
