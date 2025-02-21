@@ -60,10 +60,18 @@ xray-app/
 ---
 
 ## 📊 Example Predictions  
-| Input X-ray | Model Prediction |
-|-------------|-----------------|
-| ![Normal X-ray](https://github.com/user-attachments/assets/e44aca71-c666-47d0-93b9-36fdfee3bd49) | ✅ No Signs of Pneumonia (Green) |
-| ![Pneumonia X-ray](https://github.com/user-attachments/assets/2251184a-5057-47ea-9089-e3a9d578c021) | 🚨 Pneumonia Detected (Red) |
+<table> 
+  <tr> 
+    <td align="center"> 
+      <img src="https://github.com/user-attachments/assets/e44aca71-c666-47d0-93b9-36fdfee3bd49" width="100"> 
+      <br> ✅ No Pneumonia (Green) 
+    </td> 
+    <td align="center"> 
+      <img src="https://github.com/user-attachments/assets/2251184a-5057-47ea-9089-e3a9d578c021" width="100"> 
+      <br> 🚨 Pneumonia Detected (Red) 
+    </td> 
+  </tr> 
+</table>
 
 ---
 
