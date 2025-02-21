@@ -90,14 +90,6 @@ pip install -r requirements.txt
 
 ---
 
-## ⚡ To-Do / Future Improvements  
-- 📌 **Improve Model Accuracy** – Fine-tune or train with more datasets  
-- 🎨 **Enhance UI/UX** – Better front-end design  
-- 🚀 **Deploy Online** – Host on **Render, Heroku, or AWS**  
-- 📊 **Show Confidence Score** – Display model confidence % in predictions  
-
----
-
 ## 🤝 Contributing  
 💡 Have ideas for improvement? **Feel free to open an issue or submit a pull request!**  
 
