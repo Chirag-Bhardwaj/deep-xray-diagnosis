@@ -45,16 +45,16 @@ python app.py
 ## 📂 Project Structure
 ```
 xray-app/
-│── pneumonia_model.h5   # Trained deep learning model
-│── app.py               # Main Flask application
+│── pneumonia_model.h5    # Trained deep learning model
+│── app.py                # Main Flask application
 │── requirements.txt      # Python dependencies
 │── README.md             # Documentation
 │── .gitignore            # Ignore unnecessary files
 │── templates/
 │   ├── index.html        # Upload page
 │   ├── results.html      # Results page (with red/green alerts)
-│── static/
-│   ├── styles.css        # (Optional, for custom styles)
+│   ├── styles.css        
+│   ├── script.js         
 ```
 
 ---
