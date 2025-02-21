@@ -64,11 +64,11 @@ xray-app/
   <tr> 
     <td align="center"> 
       <img src="https://github.com/user-attachments/assets/e44aca71-c666-47d0-93b9-36fdfee3bd49" width="100"> 
-      <br> ✅ No Pneumonia (Green) 
+      <br> ✅ No Pneumonia
     </td> 
     <td align="center"> 
       <img src="https://github.com/user-attachments/assets/19355d73-137c-4030-8638-7d005ede697a" width="100"> 
-      <br> 🚨 Pneumonia Detected (Red) 
+      <br> 🚨 Pneumonia Detected 
     </td> 
   </tr> 
 </table>
