@@ -47,7 +47,8 @@ python app.py
 xray-app/
 │── pneumonia_model.h5    # Trained deep learning model
 │── app.py                # Main Flask application
-│── requirements.txt      
+│── requirements.txt
+│── .gitattributes      
 │── README.md            
 │── templates/
 │   ├── index.html        # Upload page
