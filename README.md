@@ -2,6 +2,8 @@
 
 This is a **Flask-based web application** that uses a **custom deep learning model** trained on top of VGG-16 to predict whether an uploaded chest X-ray image shows signs of **pneumonia**.  
 
+The model is trained using **NIH's Chest X-ray Dataset**: [NIH Chest X-ray Dataset](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/nih-chest).
+
 ---
 
 ## 📌 Features
